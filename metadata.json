@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank Touch - Trợ lý Tương tác Khách hàng tại Quầy",
+  "description": "Ứng dụng tương tác quầy giao dịch VietinBank: Giải đáp thắc mắc, Tải VietinBank iPay, Thử thách Game săn voucher, Tính lãi tiền gửi, Lịch trả nợ khoản vay, Sản phẩm dịch vụ nổi bật, Điểm giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
